@@ -1,5 +1,6 @@
 <h1 align="center">Uber Clone App🚖 </h1>
 
+![Demo App](/frontend/src/assets/uber.mp4)
 
 About This Project:
 
